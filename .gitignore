@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# scrapers and temp files
+/*.html
+tips_raw.html
+temp.html
+medicolegalaid-html-pages/
+judgements_data.json
+judgements_parsed.json
+convert.mjs
+designnew.pdf
+deploy.zip

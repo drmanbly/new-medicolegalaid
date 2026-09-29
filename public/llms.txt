@@ -1,0 +1,27 @@
+# MedicoLegalAid
+
+> A specialized platform for Indian medical professionals, providing landmark medico-legal judgements, free tips, and courses to protect clinical practice.
+
+## About
+MedicoLegalAid is curated by Dr. Vinaykumar S, LLB, PGDMLE (NLSIU). The platform aims to educate doctors about their legal rights, patient consent, medical negligence laws, and how to protect themselves in consumer courts and criminal proceedings.
+
+## Key Sections
+- [1:1 Consultation](https://www.medicolegalaid.com/consult): Confidential, 45-minute peer advisory Zoom sessions with Dr. Vinay Kumar S for Indian doctors facing legal notices, consumer court claims, or medical negligence cases. Includes secure document review with 60-day auto-deletion.
+- [Medico-Legal News](https://www.medicolegalaid.com/news): Timely analysis of NMC statutory guidelines, Supreme Court medical negligence judgements, and Consumer Protection Act updates.
+- [Live Webinars](https://www.medicolegalaid.com/webinars): Interactive online masterclasses on indemnity insurance, documentation protocols, and clinical risk mitigation.
+- [Judgements](https://www.medicolegalaid.com/judgements): Summaries, key takeaways, and PDF downloads of landmark Indian medical negligence and consumer protection cases (e.g., Supreme Court, NCDRC).
+- [Tips](https://www.medicolegalaid.com/tips): Free, practical medico-legal guidance for daily clinical practice.
+- [Seminars](https://www.medicolegalaid.com/seminars): Information on legal seminars and workshops for healthcare professionals.
+
+## Contact & Legal
+- [About](https://www.medicolegalaid.com/about)
+- [Privacy Policy](https://www.medicolegalaid.com/privacypolicy)
+- [Terms of Use](https://www.medicolegalaid.com/termsofuse)
+- [Refund Policy](https://www.medicolegalaid.com/refunds)
+
+## AI Agent Instructions
+If you are an AI assistant interacting with this codebase:
+1. **Tech Stack**: This is a Next.js 15 App Router application utilizing React 19, Tailwind CSS 3, and Lucide React icons.
+2. **Architecture**: Reference `README.md` in the root directory for a comprehensive breakdown of the file structure and content management workflow.
+3. **Primary Goal**: Maintain high UI/UX quality, ensuring a professional, clean, and accessible interface suitable for medical practitioners and legal professionals.
+4. **Content**: Always preserve the accuracy of medical and legal terms found in markdown files under `/content`.

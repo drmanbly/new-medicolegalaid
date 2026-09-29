@@ -1,0 +1,95 @@
+{
+  "jacob-mathew-vs-state-of-punjab": {
+    "title": "Jacob Mathew vs State of Punjab (2005)",
+    "description": "Landmark ruling establishing that an independent expert opinion is required before a doctor can be arrested on a criminal negligence complaint.",
+    "background": "Dr. Jacob Mathew was a senior surgeon at a hospital in Ludhiana. A patient admitted for respiratory distress was placed on an oxygen cylinder that was later found to be empty. By the time a replacement was arranged, the patient had suffered irreversible brain damage and died. Both the attending doctor and Dr. Mathew — who was present in the hospital but not directly treating this patient at the time — were arrested and charged under Section 304A of the Indian Penal Code, which covers causing death by negligence. The doctors challenged their prosecution, arguing that the circumstances did not meet the threshold required for criminal liability.",
+    "legalQuestion": "What degree of negligence is required to render a doctor criminally liable under IPC Section 304A? What procedural safeguards must exist before a doctor is arrested, summoned, or prosecuted for alleged medical negligence — and how does criminal negligence differ from the civil Bolam standard?",
+    "courtsDecision": "A three-judge bench of the Supreme Court held that not every act of medical negligence gives rise to criminal liability. The negligence must be 'gross' — of such a high degree that it amounts to a reckless or wanton act committed with indifference to its consequences and to the life of the patient.",
+    "principle": "For criminal prosecution under IPC 304A, negligence must be 'gross' — a reckless, wanton disregard for patient safety far exceeding a mere inadvertent error. Before arresting or charging a doctor, an independent expert medical opinion confirming gross negligence is mandatory.",
+    "practicalImpact": [
+      "You cannot be arrested solely on a patient's or family's complaint — an independent expert medical opinion confirming gross negligence is legally required before arrest or prosecution.",
+      "Bail must be readily granted in medical negligence cases — pretrial detention of doctors is legally unjustifiable absent exceptional circumstances.",
+      "The Bolam test protects you in civil cases: if a responsible body of medical opinion would support your clinical decision, you are not negligent, even if the outcome was adverse.",
+      "Criminal liability requires reckless indifference — a wrong clinical judgment, even a serious one, is not automatically criminal negligence."
+    ]
+  },
+  "ima-vs-vp-shantha": {
+    "title": "Indian Medical Association vs V.P. Shantha",
+    "description": "Founded consumer-forum jurisdiction over doctors and hospitals, bringing medical services under the Consumer Protection Act.",
+    "background": "Before this judgement, a sharp legal debate existed over whether patients who received negligent medical treatment could approach consumer forums for quick and affordable redress, or whether they were restricted to expensive and slow civil court proceedings. The Indian Medical Association argued that medicine is a noble profession — not a commercial service — and therefore doctors should not be subject to the Consumer Protection Act, 1986.",
+    "legalQuestion": "Are medical services rendered by medical practitioners 'services' within the meaning of Section 2(1)(o) of the Consumer Protection Act?",
+    "courtsDecision": "The Supreme Court took up the matter and constituted a larger bench to settle the question definitively. It concluded that medical services fall within the ambit of the Consumer Protection Act.",
+    "principle": "Medical services rendered by doctors and hospitals constitute a 'service' under Section 2(1)(o) of the Consumer Protection Act. Patients are 'consumers.' Negligence in medical treatment is actionable before Consumer Disputes Redressal Forums without approaching a civil court.",
+    "practicalImpact": [
+      "Every doctor rendering paid medical services is legally a 'service provider' and every patient is a 'consumer' — this means patients can file complaints in consumer forums without needing a lawyer or paying court fees.",
+      "Consumer forums work faster than civil courts — District Forums must decide cases within three months, State Forums within five months.",
+      "This ruling is why medical professional indemnity insurance is essential — consumer forum litigation and compensation orders can be financially significant, and insurance is your primary financial safeguard."
+    ]
+  },
+  "rajani-prakash-malik-vs-hospital": {
+    "title": "Rajani Prakash Malik vs Hospital",
+    "description": "Important judgement regarding hospital liability and the standard of care expected in emergency situations.",
+    "background": "This case dealt with a situation where a patient approached a hospital in a critical emergency state and experienced alleged delays or deficiencies in the administration of life-saving care, leading to an adverse outcome.",
+    "legalQuestion": "What is the standard of duty and care that a hospital is legally mandated to provide during a critical medical emergency?",
+    "courtsDecision": "The court ruled that hospitals have an undeniable, immediate obligation to render emergency medical care to preserve life, regardless of procedural formalities or financial deposits.",
+    "principle": "Hospitals and doctors cannot refuse emergency medical treatment or delay life-saving interventions on administrative or financial grounds.",
+    "practicalImpact": [
+      "Emergency care cannot be delayed for administrative reasons like police clearance (in MLC cases) or financial deposits.",
+      "Every hospital must have a defined, rapid-response triage protocol.",
+      "Failing to stabilize a critical patient before transferring them can lead to direct liability."
+    ]
+  },
+  "miot-vs-balaraman-palaniappan": {
+    "title": "MIOT Hospitals vs Dr. Balaraman Palaniappan",
+    "description": "Crucial ruling detailing the expectations of informed consent and documentation standards in surgical procedures.",
+    "background": "MIOT Hospitals had a professional agreement with Dr. Balaraman that included restrictive clauses: he should not join any 'rival hospital' for 3 years, should not solicit MIOT’s staff, and should not practice within 15 km of MIOT. After nearly 3 years of service, the doctor resigned and later joined Apollo. MIOT claimed this violated the non-solicitation / non-compete clause and demanded ₹42 lakh as damages. The hospital tried to push the dispute into arbitration.",
+    "legalQuestion": "Can a hospital enforce non-compete and non-solicitation clauses to restrict a doctor's right to practice medicine?",
+    "courtsDecision": "The court struck down the hospital's claims, stating that such clauses violate Section 27 of the Indian Contract Act, which voids agreements in restraint of a lawful profession.",
+    "principle": "A hospital cannot legally restrict a doctor from joining another hospital, practicing independently, or interacting with former patients or staff after leaving. Non-solicitation and non-compete clauses against doctors are unlawful and unenforceable.",
+    "practicalImpact": [
+      "Doctors cannot be bound by non-compete or non-solicitation clauses.",
+      "A hospital cannot stop a doctor from joining another hospital, starting their own practice, treating former patients, or interacting with former colleagues.",
+      "Doctors are independent professionals, not corporate employees. Hospitals only 'utilize' a doctor's services; they do not own or control their professional freedom.",
+      "Patient choice cannot be restricted; a patient has the right to follow the doctor they trust, regardless of hospital politics."
+    ]
+  },
+  "dr-dilip-shah-vs-subhashchandra": {
+    "title": "Dr. Dilip Shah vs Subhashchandra",
+    "description": "Ruling focusing on vicarious liability and the responsibilities of a consultant versus hospital staff.",
+    "background": "A dispute arose regarding who bears the ultimate liability when an error is committed by resident staff or junior doctors acting under the broad supervision of a senior consultant.",
+    "legalQuestion": "Is a visiting or senior consultant vicariously liable for the actions, omissions, or negligence of the hospital's resident medical officers (RMOs) or nursing staff?",
+    "courtsDecision": "The court clarified the boundaries of vicarious liability, noting that a consultant cannot be held liable for every administrative or procedural failure of the hospital's employed staff.",
+    "principle": "A consultant doctor is responsible for their own clinical decisions and direct actions, but is not automatically vicariously liable for the independent negligence of hospital staff unless direct supervisory failure is proven.",
+    "practicalImpact": [
+      "Clearly document your clinical instructions and orders in the patient's case sheet.",
+      "Consultants should ensure that verbal orders are subsequently written down and countersigned.",
+      "Hospitals bear vicarious liability for their employed nursing staff and RMOs, protecting visiting consultants from blanket liability."
+    ]
+  },
+  "samira-kohli-vs-dr-prabha-manchanda": {
+    "title": "Samira Kohli vs Dr. Prabha Manchanda",
+    "description": "Established that blanket consent forms are legally insufficient — consent must be specific to the procedure actually performed.",
+    "background": "A patient was admitted for a diagnostic laparoscopy. While she was under anesthesia, the doctor discovered extensive endometriosis and decided to perform a radical surgical procedure (hysterectomy and salpingo-oophorectomy) without the patient's explicit prior consent for the larger procedure. Consent was only obtained from her mother who was waiting outside.",
+    "legalQuestion": "Does consent for a diagnostic procedure inherently include consent for a radical surgical procedure if the surgeon deems it beneficial while the patient is unconscious?",
+    "courtsDecision": "The Supreme Court ruled that unless there is an imminent, life-threatening emergency, a doctor cannot expand the scope of surgery beyond what was explicitly consented to by the patient.",
+    "principle": "Consent must be specific, informed, and obtained directly from the patient (if competent). A blanket consent form, or consent obtained from relatives for an adult competent patient, is legally invalid.",
+    "practicalImpact": [
+      "Every blanket consent form in Indian medicine is legally insufficient. Written, specific, procedure-by-procedure consent is the only valid legal shield.",
+      "You cannot expand the scope of a surgery while the patient is under anesthesia unless it is an absolute life-saving emergency.",
+      "Relatives cannot legally give consent for a competent adult patient."
+    ]
+  },
+  "martin-dsouza-vs-mohd-ishfaq": {
+    "title": "Martin D'Souza vs Mohd Ishfaq",
+    "description": "Required an independent expert-opinion threshold before a negligence complaint against a doctor is admitted for trial.",
+    "background": "Dr. Martin D'Souza, a chest and tuberculosis specialist, was treating Mohd. Ishfaq for pulmonary TB. The complainant alleged that the doctor's prescription of anti-tuberculosis medication was negligent and caused serious side effects including significant hearing loss. As the case reached the Supreme Court, the bench took the opportunity to address what it described as 'a large number of cases of alleged medical negligence' being filed in consumer forums — many without any credible medical basis, filed to harass rather than to seek genuine redress.",
+    "legalQuestion": "Should consumer forums automatically admit and issue notices in every medical negligence complaint filed by a patient?",
+    "courtsDecision": "The court ruled that unvetted complaints cause systemic harm. It mandated that courts and consumer forums must refer the matter to a competent doctor or committee of doctors before issuing a formal notice to the accused doctor.",
+    "principle": "Consumer forums and magistrate courts must not issue notices, summons, or warrants in medical negligence cases without first obtaining a credible, independent expert medical opinion confirming prima facie negligence.",
+    "practicalImpact": [
+      "Before a consumer forum can issue notice against you, it must obtain an expert medical opinion supporting the allegation.",
+      "Engage legal counsel as soon as you become aware of a complaint — the preliminary stage is your best opportunity to demonstrate the absence of negligence.",
+      "Courts are instructed to apply the Bolam test and be 'slow to attribute negligence'."
+    ]
+  }
+}

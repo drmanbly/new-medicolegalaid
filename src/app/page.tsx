@@ -68,7 +68,7 @@ export default function Home() {
             <div className="hidden lg:flex flex-col gap-[12px] scroll-reveal" style={{ animationDelay: '0.1s' }}>
               <div className="relative w-full aspect-[917/1191] box-border overflow-hidden flex items-end justify-center">
                 <Image 
-                  src="/dr-vinay-cutout.png" 
+                  src="/dr-vinay-new-home-image.png" 
                   alt="Dr. Vinaykumar S, Founder of MedicoLegalAid" 
                   fill 
                   className="object-contain block"
@@ -170,7 +170,7 @@ export default function Home() {
           <div className="max-w-[1200px] mx-auto grid md:grid-cols-[220px_minmax(0,1fr)] gap-[48px] items-center scroll-reveal">
             <div className="hidden md:block w-[220px] h-[220px] rounded-full border border-primary/35 bg-[#E8DEC8] overflow-hidden box-border mx-auto md:mx-0">
               <Image 
-                src="/dr-vinay-cutout.png" 
+                src="/dr-vinay-new-home-image.png" 
                 alt="Dr. Vinaykumar S" 
                 width={220} 
                 height={220} 
